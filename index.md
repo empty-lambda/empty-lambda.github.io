@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Blogging moments learned in functional path
+
 ---
 {% include JB/setup %}
 
