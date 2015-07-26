@@ -1,12 +1,14 @@
 
-http://username.github.io/pages/about.html
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://empty-lambda.github.io/about.html
+http://empty-lambda.github.io/pages/about.html
+http://empty-lambda.github.io/archive.html
+http://empty-lambda.github.io/atom.xml
+http://empty-lambda.github.io/categories.html
+http://empty-lambda.github.io/index.html
+http://empty-lambda.github.io/pages.html
+http://empty-lambda.github.io/rss.xml
+http://empty-lambda.github.io/sitemap.txt
+http://empty-lambda.github.io/tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://empty-lambda.github.io/2015/07/26/learningtoprogram
+http://empty-lambda.github.io/2015/07/26/jekyll
