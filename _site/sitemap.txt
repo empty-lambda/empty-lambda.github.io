@@ -4,10 +4,11 @@ http://empty-lambda.github.io/archive.html
 http://empty-lambda.github.io/atom.xml
 http://empty-lambda.github.io/categories.html
 http://empty-lambda.github.io/index.html
+http://empty-lambda.github.io/index.md.backup
 http://empty-lambda.github.io/pages.html
 http://empty-lambda.github.io/rss.xml
 http://empty-lambda.github.io/sitemap.txt
 http://empty-lambda.github.io/tags.html
 
-http://empty-lambda.github.io/2015/08/15/unix_100_tools
+http://empty-lambda.github.io/unixtools/2015/08/15/unix_100_tools
 http://empty-lambda.github.io/lessons/2011/12/29/jekyll-introduction

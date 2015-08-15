@@ -5,17 +5,29 @@
         <description>Blogging functionally - </description>
         <link>http://empty-lambda.github.io</link>
         <atom:link href="http://empty-lambda.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Sat, 15 Aug 2015 21:14:58 +0200</lastBuildDate>
-        <pubDate>Sat, 15 Aug 2015 21:14:58 +0200</pubDate>
+        <lastBuildDate>Sat, 15 Aug 2015 21:31:12 +0200</lastBuildDate>
+        <pubDate>Sat, 15 Aug 2015 21:31:12 +0200</pubDate>
         <ttl>60</ttl>
 
 
         <item>
                 <title>Unix_100_tools</title>
                 <description>
+&lt;h2 id=&quot;unix-&quot;&gt;Unix 工具百問&lt;/h2&gt;
+
+&lt;p&gt;有這樣的想法好一陣子了，決定開始寫下這個系列，剛好拿來放在新部落格充當內容物啊．&lt;br /&gt;
+基本上是專門針對使用中文的超級初心者如小弟在下我所記錄下來的工具回憶，同時使用 version control 來玩玩看&lt;br /&gt;
+應該會有很多狀態是中英文夾雜的，畢竟小弟我中文實在有點二二六六了（有誰要借我高中國文課本的！）&lt;/p&gt;
+
+&lt;p&gt;玩法很簡單，記錄下各種用到的 Unix 小工具，希望能在時間內收集到一百個（某種千人斬（糟糕＠＠）的感覺？？）&lt;br /&gt;
+手邊習慣使用的是 OSX （10.10 Yosemite），當作第零篇來寫下 Homebrew 好了．&lt;/p&gt;
+
+&lt;h3 id=&quot;homebrew&quot;&gt;Homebrew&lt;/h3&gt;
+
+&lt;h4 id=&quot;terminal&quot;&gt;Terminal&lt;/h4&gt;
 </description>
-                <link>http://empty-lambda.github.io/2015/08/15/unix_100_tools</link>
-                <guid>http://empty-lambda.github.io/2015/08/15/unix_100_tools</guid>
+                <link>http://empty-lambda.github.io/unixtools/2015/08/15/unix_100_tools</link>
+                <guid>http://empty-lambda.github.io/unixtools/2015/08/15/unix_100_tools</guid>
                 <pubDate>Sat, 15 Aug 2015 00:00:00 +0200</pubDate>
         </item>
 
