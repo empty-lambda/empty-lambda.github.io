@@ -150,7 +150,9 @@ Here's a sample "posts list".
 
 <ul class="posts">
   
-    <li><span>15 Aug 2015</span> &raquo; <a href="/unixtools/2015/08/15/unix_100_tools">Unix_100_tools</a></li>
+    <li><span>16 Aug 2015</span> &raquo; <a href="/programming/2015/08/16/simple-parallel-haskell">Simple Parallel haskell [未完成]</a></li>
+  
+    <li><span>15 Aug 2015</span> &raquo; <a href="/unixtools/programming/2015/08/15/unix_100_tools">Unix_100_tools [未完成]</a></li>
   
     <li><span>29 Dec 2011</span> &raquo; <a href="/lessons/2011/12/29/jekyll-introduction">Jekyll Introduction</a></li>
   

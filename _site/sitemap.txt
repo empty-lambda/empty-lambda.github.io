@@ -10,5 +10,6 @@ http://empty-lambda.github.io/rss.xml
 http://empty-lambda.github.io/sitemap.txt
 http://empty-lambda.github.io/tags.html
 
-http://empty-lambda.github.io/unixtools/2015/08/15/unix_100_tools
+http://empty-lambda.github.io/programming/2015/08/16/simple-parallel-haskell
+http://empty-lambda.github.io/unixtools/programming/2015/08/15/unix_100_tools
 http://empty-lambda.github.io/lessons/2011/12/29/jekyll-introduction
